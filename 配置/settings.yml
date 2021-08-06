@@ -2,11 +2,11 @@
 # base station configurations
 #   latitude: south values are negative
 #   longitude: west values are negative
-latitude: 40.712776
-longitude: -74.005974
+latitude: 22.7024
+longitude: 113.9612
 
 # time zone offset from UTC (for example, '-5' for US Eastern)
-timezone_offset: -5
+timezone_offset: +8
 
 # ntp configurations
 #   ntp_server - if you have a local server (e.g. stratum1), you can use this setting
@@ -173,7 +173,7 @@ noaa_thermal_temp_overlay_location: 'NorthEast'
 #   timezone: see https://www.php.net/manual/en/timezones.php
 #   lang_setting: see the 'webpanel/App/Lang' folder for available
 #                 languages (2-letter filename - e.g. ar, bg, de, en, es, nl, sr)
-timezone: America/New_York
+timezone: Asis/Shanghai
 lang_setting: en
 
 # web server configuration settings
